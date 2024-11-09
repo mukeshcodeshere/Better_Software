@@ -14,7 +14,7 @@ body {
 
 /* Header Styles */
 header {
-    background-color: #004a8b;  /* Darker blue for contrast */
+    background-color: #ffbf00;  /* Yellow for contrast */
     color: #ffffff;  /* White text for better readability */
     padding: 50px 20px;
     text-align: center;
@@ -79,7 +79,7 @@ button:hover {
 
 /* Footer Styles */
 footer {
-    background-color: #004a8b;  /* Same blue as header for consistency */
+    background-color: #ffbf00;  /* Same yellow as header for consistency */
     color: #ffffff;
     padding: 20px;
     text-align: center;
