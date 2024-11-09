@@ -1,0 +1,57 @@
+/* Global Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f9ff; /* Light blue */
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    font-family: 'Roboto', sans-serif;
+    color: #003366; /* Dark blue */
+}
+
+header {
+    background-color: #003366; /* Dark blue */
+    color: #fbd93d; /* Yellow */
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #003366;
+    color: #fbd93d;
+    padding: 10px;
+    text-align: center;
+}
+
+.logo {
+    max-width: 200px;
+    margin-bottom: 30px;
+}
+
+button {
+    background-color: #fbd93d;
+    color: #003366;
+    border: none;
+    padding: 15px 25px;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #ffbf00;
+}

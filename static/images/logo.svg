@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <!-- Main Container -->
+  <g transform="translate(40, 40)">
+    <!-- Company Name -->
+    <text x="20" y="45" font-family="Courier New, monospace" font-weight="700" font-size="48" fill="#2B64D9" letter-spacing="2">
+      BETTER
+    </text>
+    <text x="20" y="110" font-family="Courier New, monospace" font-weight="700" font-size="48" fill="#2B64D9" letter-spacing="2">
+      SOFTWARE
+    </text>
+    
+    <!-- Slogan (Minimal Code Snippet) -->
+    <text x="22" y="145" font-family="Courier New, monospace" font-weight="500" font-size="16" fill="#2B64D9">
+      def build_better()
+    </text>
+    
+    <!-- Simple Vertical Line Accent -->
+    <rect x="0" y="0" width="6" height="160" fill="#2B64D9"/>
+  </g>
+</svg>
