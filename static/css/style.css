@@ -15,7 +15,7 @@ body {
 /* Header Styles */
 header {
     background-color: #ffbf00;  /* Yellow for contrast */
-    color: #003366;  /* White text for better readability */
+    color: #003366;  /* Blue text for better readability */
     padding: 50px 20px;
     text-align: center;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);  /* Subtle shadow for depth */
