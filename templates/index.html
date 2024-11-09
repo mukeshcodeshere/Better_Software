@@ -12,7 +12,7 @@
         <img src="{{ url_for('static', filename='images/logo.svg') }}" alt="Greater Software Logo" class="logo">
         <h1>Welcome to Greater Software</h1>
     </header>
-
+    
     <main>
         <h2>Let's build the future.</h2>
         <p>
@@ -22,8 +22,10 @@
         <p>
             Join us and help us build the future!
         </p>
-        <button onclick="window.location.href='mailto:mukeshwaran@berkeley.edu'">Apply Now</button>
+        <!-- Button that triggers the mailto link -->
+        <button onclick="window.location.href='mailto:mukeshwaran@berkeley.edu?subject=Software%20Engineer%20Application&body=Hello,%20I%20am%20interested%20in%20the%20position.'">Apply Now</button>
     </main>
+    
 
     <footer>
         <p>&copy; 2024 Greater Software. All rights reserved.</p>
