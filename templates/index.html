@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Better Software</title>
-    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <body>
     <header>
-        <img src="/static/images/logo.svg" alt="Better Software Logo" class="logo">
+        <img src="{{ url_for('static', filename='images/logo.svg') }}" alt="Better Software Logo" class="logo">
         <h1>Welcome to Better Software</h1>
     </header>
 
